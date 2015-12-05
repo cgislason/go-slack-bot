@@ -1,5 +1,5 @@
-name: gobot
-description: A simple Go bot sample for Beep Boop
+name: chirpbot
+description: A cricket for empty slack channels
 avatar: avatar.jpg
 config:
   - name: OPTION
