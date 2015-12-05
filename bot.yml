@@ -1,6 +1,6 @@
 name: chirpbot
 description: A cricket for empty slack channels
-avatar: avatar.jpg
+avatar: cricket.png
 config:
   - name: OPTION
     friendly_name: Some Unnecessary Option
